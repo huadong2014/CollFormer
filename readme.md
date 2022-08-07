@@ -55,4 +55,3 @@ t2t_train/translate_ende_wmt32k
 t2t_train/translate_envi_iwslt32k
 
 
-# CollFormer
